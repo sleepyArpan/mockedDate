@@ -1,0 +1,19 @@
+{
+  "name": "mockeddate",
+  "version": "1.0.0",
+  "description": "Get Date.now() values from 5 years from now or 5 years ago for your tests",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "mocked Date.now()",
+    "Date tests"
+  ],
+  "author": "Arpan Chattopadhyay",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
